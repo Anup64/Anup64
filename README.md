@@ -1,20 +1,20 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup64&label=Profile%20views&color=0e75b6&style=flat" alt="anup64" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce application**
+- 🔭 I’m currently working on **Bank of APIs application**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **anup79004@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/2ivkn](https://rb.gy/2ivkn)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Jw_toIuJBMldFrz-CuiHsTUFmmQdDPsj/view?usp=sharing](https://drive.google.com/file/d/1Jw_toIuJBMldFrz-CuiHsTUFmmQdDPsj/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
